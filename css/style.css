@@ -1,0 +1,32 @@
+header {background-color: rgb(53, 50, 50);margin-bottom: 30px;height: 135px;}
+header img {position: absolute;left:200px;top :40px }
+
+header nav ul { list-style-type: none; position: absolute;
+    top:50px; left:420px;}
+      
+/*{display: inline;color:lightgray;}*/
+
+header nav ul li { margin-left:30px; 
+    display: inline;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+ main img {position:relative;left:200px;} 
+
+main div img {margin: 16px;position: relative;left:182px;margin-top: 30px;}
+
+section img {position: relative;left:200px ;margin-top: 14px;}
+
+section article {position: relative;float: right;max-width: 470px;margin-top: 30px;margin-right: 150px;}
+
+article button {position:relative; bottom:0px;right:5px;background-color: #000;color: lightgray;}
+
+
+
+footer  {clear: both;
+    background-color: rgb(53, 50, 50);
+    min-height: 100px;
+    margin-top: 30px;
+}
